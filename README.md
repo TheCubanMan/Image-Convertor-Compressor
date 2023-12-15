@@ -1,0 +1,1 @@
+This code allows someone with an IDE that has access to your files (not just in a browser) to convert images such as jpg and png as well as compress them to smaller file sizes. I've only tested this on an Apple silicon Mac and in PyCharm.
